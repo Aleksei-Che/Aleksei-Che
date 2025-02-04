@@ -8,8 +8,8 @@ I'm a **Frontend Developer** specializing in **React, TypeScript, and UX/UI**. P
 - **Tools:** Vite, Git & GitHub, SQL/MySQL (basic)
 
 ## 🚀 Featured Projects
-🔹 **[Montse - Book Tracker](#)** - A web app for tracking reading progress, built with React & Firebase.  
-🔹 **[Christmas Tree App](#)** - Interactive Christmas tree decoration tracking.
+🔹 **[Montse - Book Tracker](https://github.com/Aleksei-Che/montse-app)** - A web app for tracking reading progress, built with React & Firebase.  
+🔹 **[Christmas Tree App](https://github.com/Aleksei-Che/s8-christmas-tree)** - Interactive Christmas tree decoration tracking.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-chesnokov/)  
